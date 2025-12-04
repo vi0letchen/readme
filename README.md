@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,js,figma,react,tailwind,ts,mongodb,r,mysql,firebase)](https://skillicons.dev)
 
 <details>
-<summary>How to reach out to me</summary>
+<summary><b>How to reach out to me</b> 🥰</summary>
 
 <br>
 
